@@ -1,0 +1,21 @@
+hub_id,name,x_coord_km,y_coord_km,capacity_daily_parcels,hub_type
+HUB_01,Central Master Warehouse,25.0,25.0,15000,Primary Depot
+HUB_02,North Harbor Logistics Node,24.8,38.5,8000,Marine Transfer
+HUB_03,Uptown Express Sort Hub,28.5,31.2,6500,Regional Sort
+HUB_04,Industrial Park East Depot,42.0,26.5,9000,Bulk Storage
+HUB_05,Aerospace Cargo Terminal,45.5,39.0,7200,Air Freight
+HUB_06,South River Logistics Node,26.2,12.0,5500,Ground Transfer
+HUB_07,West Hills Cross-Dock,12.5,23.5,6000,Cross Dock
+HUB_08,Suburban South-West Hub,15.0,14.2,4500,Local Delivery
+HUB_09,Old Town Micro-Fulfillment,23.5,27.0,3000,Last Mile
+HUB_10,Financial District Station,26.0,26.5,4000,High Priority
+HUB_11,Tech Corridor Satellite Hub,34.0,33.5,5200,Express
+HUB_12,Coastal Bay Distribution Center,40.0,16.0,4800,Regional
+HUB_13,Highland Gateway Node,18.0,42.0,3800,Mountain Freight
+HUB_14,Valley Junction Depot,19.2,33.0,5100,Transfer
+HUB_15,South Eastern Logistics Yard,38.0,10.5,6200,Heavy Vehicle Depot
+HUB_16,Riverfront Parcel Center,29.0,18.5,4200,Last Mile
+HUB_17,University Cluster Node,22.0,31.0,3500,Campus Dispatch
+HUB_18,Outer Ring Road Hub,48.0,28.0,5800,Interstate Relay
+HUB_19,Metro South Micro-Hub,25.5,24.8,3200,Last Mile
+HUB_20,North Lake Auxiliary Depot,24.2,40.1,2800,Seasonal

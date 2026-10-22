@@ -1,0 +1,45 @@
+================================================================================
+SMARTCITY LOGISTICS DISPATCH MANIFEST - ROUTE #SC-9042
+DATE: 2026-10-20 | DISPATCH HUB: CENTRAL MASTER WAREHOUSE (HUB_01)
+VEHICLE ID: VAN-ELECTRIC-08 | DRIVER: MARCUS REID (ID: DRV-7712)
+TOTAL ASSIGNED SHIPMENTS: 25 | DISPATCH TIME: 08:00 AM
+================================================================================
+RECORD ID: 001 | PKG: PKG_111 | DEST: Zone-North (Nova Diagnostics)
+PRIORITY: URGENT (3) | DEADLINE: 08:00 | WEIGHT: 6.00 kg | CODE: MED-CRIT-992
+STATUS: LOADED | SPECIAL: REFRIGERATED 2-8C | INVOICE: $950.00 | SIGN-REQ: YES
+--------------------------------------------------------------------------------
+RECORD ID: 002 | PKG: PKG_125 | DEST: Zone-East (Vanguard Defence Lab)
+PRIORITY: URGENT (3) | DEADLINE: 08:00 | WEIGHT: 7.00 kg | CODE: DEF-SEC-104
+STATUS: LOADED | SPECIAL: TAMPER EVIDENT SEAL #8831 | INVOICE: $1050.00
+--------------------------------------------------------------------------------
+RECORD ID: 003 | PKG: PKG_102 | DEST: Zone-Central (City General Hospital)
+PRIORITY: URGENT (3) | DEADLINE: 08:30 | WEIGHT: 4.20 kg | CODE: MED-EMERG-441
+STATUS: LOADED | SPECIAL: STAT BLOOD PLASMA | INVOICE: $900.00 | DOCK: BAY 3
+--------------------------------------------------------------------------------
+RECORD ID: 004 | PKG: PKG_105 | DEST: Zone-Central (St. Jude Pharmacy)
+PRIORITY: URGENT (3) | DEADLINE: 08:30 | WEIGHT: 3.00 kg | CODE: PHARM-RX-229
+STATUS: LOADED | SPECIAL: NARCOTICS VAULT LOCK | INVOICE: $600.00
+--------------------------------------------------------------------------------
+RECORD ID: 005 | PKG: PKG_120 | DEST: Zone-East (Express Chem Labs)
+PRIORITY: URGENT (3) | DEADLINE: 08:30 | WEIGHT: 8.00 kg | CODE: HAZ-CHEM-110
+STATUS: LOADED | SPECIAL: CORROSIVE CLASS 8 | INVOICE: $780.00
+--------------------------------------------------------------------------------
+RECORD ID: 006 | PKG: PKG_101 | DEST: Zone-North (Apex Tech Labs)
+PRIORITY: URGENT (3) | DEADLINE: 09:00 | WEIGHT: 12.50 kg | CODE: TECH-SEM-551
+STATUS: LOADED | SPECIAL: FRAGILE SILICON WAFER | INVOICE: $450.00
+--------------------------------------------------------------------------------
+RECORD ID: 007 | PKG: PKG_109 | DEST: Zone-East (Civic Medical Clinic)
+PRIORITY: URGENT (3) | DEADLINE: 09:00 | WEIGHT: 5.50 kg | CODE: CLIN-SPEC-313
+STATUS: LOADED | SPECIAL: LAB DIAGNOSTIC REAGENTS | INVOICE: $550.00
+--------------------------------------------------------------------------------
+RECORD ID: 008 | PKG: PKG_122 | DEST: Zone-North (Summit Data Center)
+PRIORITY: URGENT (3) | DEADLINE: 09:00 | WEIGHT: 28.00 kg | CODE: SRV-RACK-772
+STATUS: LOADED | SPECIAL: HEAVY SERVER BLADE CHASSIS | INVOICE: $1100.00
+--------------------------------------------------------------------------------
+TELEMATICS ROUTE SUMMARY:
+ESTIMATED TRANSIT DISTANCE: 64.8 KM
+BATTERY CONSUMPTION ESTIMATE: 32.4 KWH
+SUGGESTED VEHICLE CHARGE TIME: 22 MINUTES AT HUB_03
+DISPATCH SUPERVISOR SIGNATURE: DR. K. SILVA [VERIFIED VIA SMARTCITY KEYCHAIN]
+END OF MANIFEST ENCRYPTION SEED: 0xDEADBEEF9482
+================================================================================

@@ -1,0 +1,26 @@
+package_id,recipient,deadline_hour,priority,weight_kg,destination_zone,cargo_type,economic_value
+PKG_101,Apex Tech Labs,9.0,3,12.5,Zone-North,indivisible,450
+PKG_102,City General Hospital,8.5,3,4.2,Zone-Central,indivisible,900
+PKG_103,Boutique Horizon,11.5,1,8.0,Zone-South,divisible,180
+PKG_104,Metro Electronics,10.0,2,15.0,Zone-East,indivisible,750
+PKG_105,St. Jude Pharmacy,8.5,3,3.0,Zone-Central,indivisible,600
+PKG_106,Green Market Co.,13.0,1,22.0,Zone-West,divisible,220
+PKG_107,Cyberdyne Robotics,9.5,2,18.5,Zone-North,indivisible,820
+PKG_108,Urban Booksellers,14.0,1,14.0,Zone-South,divisible,140
+PKG_109,Civic Medical Clinic,9.0,3,5.5,Zone-East,indivisible,550
+PKG_110,Artisan Bakery,10.5,2,10.0,Zone-Central,divisible,250
+PKG_111,Nova Diagnostics,8.0,3,6.0,Zone-North,indivisible,950
+PKG_112,Solaris Cafe,12.0,1,16.0,Zone-West,divisible,190
+PKG_113,Quantum Computing Hub,10.0,3,25.0,Zone-North,indivisible,1200
+PKG_114,Lakeside Apartments,15.0,1,7.5,Zone-South,divisible,90
+PKG_115,BioHealth Research,9.5,2,11.0,Zone-Central,indivisible,640
+PKG_116,Industrial Fasteners,13.5,1,30.0,Zone-East,divisible,310
+PKG_117,Dr. Perera Dental,10.5,2,3.8,Zone-West,indivisible,380
+PKG_118,Grandview Hotel,11.0,2,20.0,Zone-Central,divisible,400
+PKG_119,Highland High School,12.5,1,13.0,Zone-South,divisible,160
+PKG_120,Express Chem Labs,8.5,3,8.0,Zone-East,indivisible,780
+PKG_121,Skyline Rooftop Lounge,16.0,1,9.0,Zone-Central,divisible,150
+PKG_122,Summit Data Center,9.0,3,28.0,Zone-North,indivisible,1100
+PKG_123,Harbor Seafoods,10.0,2,15.5,Zone-West,divisible,350
+PKG_124,City Hall Archives,14.5,1,12.0,Zone-Central,divisible,130
+PKG_125,Vanguard Defence Lab,8.0,3,7.0,Zone-East,indivisible,1050
